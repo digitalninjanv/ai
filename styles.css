@@ -1,0 +1,9 @@
+/* Additional custom styles */
+@media (max-width: 640px) {
+    .text-4xl {
+        font-size: 2rem;
+    }
+    .text-6xl {
+        font-size: 3rem;
+    }
+}
